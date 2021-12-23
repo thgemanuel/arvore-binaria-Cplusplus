@@ -12,7 +12,7 @@ Trabalho feito com o objetivo de criar uma árvore binária.
 
 ## 🛠️ Construído com
 
-* [Colaboratory](https://research.google.com/colaboratory/) - Colaboratory Notebook
+* [Code::Blocks](https://www.codeblocks.org/) - Code::Blocks
 
 ## ✒️ Autores
 
